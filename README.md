@@ -33,4 +33,4 @@ That research side influences how I build — I care about understanding the mec
 
 I’m always interested in meeting builders, researchers, and teams working on interesting products across Web3 and AI.
 
-[Website](https://soheil.digital) · [X / Twitter](https://x.com/khodeSL) · [MemeVerse](https://github.com/Baharsx/memeverse)
+[X / Twitter](https://x.com/khodeSL) · [Telegram](https://t.me/sirSL) · [MemeVerse](https://github.com/Baharsx/memeverse)
