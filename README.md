@@ -1,36 +1,18 @@
 # Soheil SL
 
-Builder and onchain researcher working across **Web3, AI agents, and product engineering**.
+**Builder & onchain researcher.**
 
-I like turning ideas into real products — from smart contracts and backend systems to automation, agent workflows, and the user experience around them.
+I work across Web3, autonomous systems, and product engineering — turning ideas into products that hold up in production: smart contracts, backends, automation, and the experience around them.
 
-## Currently building
+I care as much about the mechanics of a system as I do about shipping it. Trade-offs, incentives, and usability first.
 
-### [MemeVerse](https://github.com/Baharsx/memeverse)
+### Focus
 
-**A meme becomes an economy.**
-
-MemeVerse is a programmable meme economy built on Arc where creators can launch markets, users trade with USDC, media carries onchain provenance, and an autonomous agent can reward creators based on real onchain activity through a Circle Agent Wallet.
-
-`Arc` · `USDC` · `Solidity` · `React` · `Node.js` · `PostgreSQL` · `Circle Agent Wallets`
-
-## What I’m interested in
-
-- Autonomous agents and programmable payments
 - Onchain products and market infrastructure
-- Web3 product engineering
-- AI-assisted software and automation
-- Crypto markets, RWA, and emerging onchain systems
-- Building products that are technically solid and actually usable
+- Autonomous agents and programmable payments
+- End-to-end product engineering
+- Research on crypto markets and emerging onchain systems
 
-## Beyond code
+### Connect
 
-I also research and create content around **onchain infrastructure, markets, RWA, and Web3 products**.
-
-That research side influences how I build — I care about understanding the mechanics, trade-offs, and user experience behind a product, not just shipping features.
-
-## Let’s connect
-
-I’m always interested in meeting builders, researchers, and teams working on interesting products across Web3 and AI.
-
-[X / Twitter](https://x.com/khodeSL) · [Telegram](https://t.me/sirSL) · [MemeVerse](https://github.com/Baharsx/memeverse)
+[X](https://x.com/khodeSL) · [Telegram](https://t.me/sirSL) · [Website](https://soheil-portfolio-pi.vercel.app)
