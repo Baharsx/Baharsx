@@ -6,7 +6,7 @@ In crypto since 2020. I explore emerging ecosystems, build onchain products, and
 
 ### Selected builds
 
-- **[MemeVerse](https://github.com/Baharsx/memeverse)** — meme markets on Arc, with trading in USDC. [Live product ↗](https://memeverse.biz)
+- **[MemeVerse](https://github.com/Baharsx/memeverse)** — meme launches and USDC markets live on Arc mainnet (chain 5042). NFT and vault features are not deployed on mainnet yet. [Live app ↗](https://memeverse.biz) · [Mainnet proof ↗](https://github.com/Baharsx/memeverse/blob/main/docs/MAINNET.md)
 - **[Orrery](https://github.com/Baharsx/Orrery)** — an interactive 3D solar system built with React and Three.js. [Live demo ↗](https://marble-dove-otter-bison.grok.me/)
 
 **Beyond building:** Web3 community and creator campaigns · Official Ambassador at [Limitless](https://limitless.exchange)
