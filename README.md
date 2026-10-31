@@ -1,20 +1,14 @@
-# Soheil SL
+# Soheil
 
-**Builder & onchain researcher.**
+**Early Web3 contributor · Builder · Creator**
 
-I work across Web3, autonomous systems, and product engineering — turning ideas into products that hold up in production: smart contracts, backends, automation, and the experience around them.
+In crypto since 2020. I explore emerging ecosystems, build onchain products, and share what I learn through research and content.
 
-I care as much about the mechanics of a system as I do about shipping it. Trade-offs, incentives, and usability first.
+### Selected builds
 
-I also write in public about onchain systems — markets, infrastructure, and the trade-offs underneath.
+- **[MemeVerse](https://github.com/Baharsx/memeverse)** — meme markets on Arc, with trading in USDC. [Live product ↗](https://memeverse.biz)
+- **[Orrery](https://github.com/Baharsx/Orrery)** — an interactive 3D solar system built with React and Three.js. [Live demo ↗](https://marble-dove-otter-bison.grok.me/)
 
-### Focus
+**Beyond building:** Web3 community and creator campaigns · Official Ambassador at [Limitless](https://limitless.exchange)
 
-- Onchain products and market infrastructure
-- Autonomous agents and programmable payments
-- End-to-end product engineering
-- Research and writing on crypto markets and emerging onchain systems
-
-### Connect
-
-[X](https://x.com/khodeSL) · [Telegram](https://t.me/sirSL) · [Website](https://soheil-portfolio-pi.vercel.app)
+**Connect:** [Portfolio](https://soheil-portfolio-pi.vercel.app/) · [X](https://x.com/khodeSL) · [Telegram](https://t.me/sirSL)
